@@ -29,7 +29,7 @@ public class HunoClientApiApplication extends SpringBootServletInitializer imple
 		
 		
 		
-	System.out.print("h");
+	System.out.print("hi srikant");
 	}
 
 }
