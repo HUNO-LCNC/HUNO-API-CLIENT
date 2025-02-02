@@ -25,11 +25,8 @@ public class HunoClientApiApplication extends SpringBootServletInitializer imple
 	@Override
 	public void setEnvironment(Environment environment) {
 		// TODO Auto-generated method stub
-		this.environment = environment;
-		
-		
-		
-	System.out.print("hi srikant patel how are you");
+		this.environment = environment;	
+	    System.out.print("hi srikant");
 	}
 
 }
